@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-Друга домашка
+# goit-markup-hw-06
+Шоста домашка
